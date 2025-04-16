@@ -16,7 +16,9 @@ It makes it easy to create Minecraft texture packs, with a clean layout and powe
 
 ### How to use
 <font color=yellow>⚠</font>Please go to Releases to get the latest version
+
 Unzip the downloaded file <font color=#2895FF>MRP-Creator.zip</font>
+
 Double-click the exe file to run it
 
 ### Maintenance and Updates
