@@ -10,8 +10,11 @@
 
 ### Overview
 <font color=red>!This program is made only for Minecraft Java Edition</font>
+
 <font color=#2895FF>MRP-Creator</font> is a simple, fast, lightweight Minecraft texture package production program
+
 It makes it easy to create Minecraft texture packs, with a clean layout and powerful features
+
 <font color=green>Basic function:</font> Replace textures, configure pack cover image, add description and set resource pack version
 
 ### How to use
@@ -23,10 +26,11 @@ Double-click the exe file to run it
 
 ### Maintenance and Updates
 
-Due to academic commitments, this project may receive maintenance/updates every 1-2 months.  
-Developers interested in collaborative maintenance are welcome to join the QQ Group below for technical discussions.
+Due to academic commitments, this project may receive maintenance/updates every 1-2 months
 
-We also welcome suggestions through Issues to improve the <font color=#2895FF>MRP-Creator</font> project.
+Developers interested in collaborative maintenance are welcome to join the QQ Group below for technical discussions
+
+We also welcome suggestions through Issues to improve the <font color=#2895FF>MRP-Creator</font> project
 
 #### Join Us?
-QQ Group: 728 937 948
+QQ Group: 728937948
