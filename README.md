@@ -33,4 +33,4 @@ Developers interested in collaborative maintenance are welcome to join the QQ Gr
 We also welcome suggestions through Issues to improve the <font color=#2895FF>MRP-Creator</font> project
 
 #### Join Us?
-QQ Group: 728937948
+Discord Server: https://discord.gg/HWkTb5ueHw
